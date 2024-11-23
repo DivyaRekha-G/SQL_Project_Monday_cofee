@@ -1,7 +1,10 @@
 Objective:
 
 To conduct a comprehensive analysis of the previous year's sales data to identify the top 3 cities with the highest potential for business expansion. This analysis will inform strategic business decisions for "Monday Coffee" and optimize resource allocation for future growth.
+
+
 Recommendations and Reasons:
+
 CITY 1: JAIPUR
 REASONS: 
 1.Smallest rental expense per customer
